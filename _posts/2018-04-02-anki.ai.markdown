@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anki.ai"
+title:  "Anki.ai - Making smarter toys"
 date:   2018-04-02 13:32:28 +0200
 categories: ['machine learning', 'racing', SAPCP]
 excerpt: How to make a toy race car drive the fastest laps using Machine Learning
