@@ -11,6 +11,8 @@ youtubeId: mUzVKb-Ko9g
 
 Participating github users:
 
+{% avatar tbroek %} - Twan van den Broek
+
 {% avatar rkleijn %} - Ronald Kleijn
 
 {% avatar tcasteli %} - Ted Castelijns
