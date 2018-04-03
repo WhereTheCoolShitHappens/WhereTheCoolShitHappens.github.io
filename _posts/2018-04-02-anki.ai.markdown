@@ -8,3 +8,7 @@ youtubeId: mUzVKb-Ko9g
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+Participating github users:
+{% avatar rkleijn %}
+{% avatar tcasteli %}
