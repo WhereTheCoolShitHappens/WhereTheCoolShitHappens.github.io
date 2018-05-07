@@ -11,12 +11,12 @@ youtubeId: IF57bm5mCTM
 
 Part 2 of #WhereTheCoolShitHappens to explain the Machine Learning part with Tensorflow, dashboard with SAPUI5 and how to teach the model while driving the car on the track.
 
-Crew
-- {% avatar rkleijn %}Ronald Kleijn
-- {% avatar tcasteli %}Ted Castelijns
-- {% avatar tbroek %} - Twan van den Broek
+__Crew__
+{% avatar rkleijn %} - Ronald Kleijn
+{% avatar tcasteli %} - Ted Castelijns
+{% avatar tbroek %} - Twan van den Broek
 
-Stuff
+__Stuff__
 - Tensorflow
 - SAP ☁️ Cloud Platform
 - SAPUI5 dashboard
