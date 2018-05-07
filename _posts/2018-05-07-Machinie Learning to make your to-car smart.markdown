@@ -3,7 +3,7 @@ layout: post
 title:  "Machine Learning to make your toy-car 🏎 smart 🧠"
 date:   2018-05-07 11:32:28 +0200
 categories: ['machine learning', 'racing', SAPCP, SAPUI5, Python, Tensorflow]
-excerpt: Part 2 of #WhereTheCoolShitHappens to explain the Machine Learning part with Tensorflow & dashboard
+excerpt: Part 2 of WhereTheCoolShitHappens to explain the Machine Learning part with Tensorflow & dashboard
 youtubeId: IF57bm5mCTM
 ---
 
